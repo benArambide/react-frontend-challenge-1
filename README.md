@@ -1,9 +1,8 @@
 # Challenge Frontend React
-Hola, la idea es elaborar este pequeño ejercicio con las especificaciones listadas.
+El siguiente es un pequeño reto para poder evaluar tus habilidades en programación y el uso de react.
 
-## Pasos a seguir
-
-- Crea un repositorio público para que ahí puedas implementar la solución.
+# Objetivo
+El objetivo del reto es construir un pequeño eshop de tan solo dos páginas el cual sea responsive y se integre a un servicio.
 
 # Requerimientos
 - Mostrar todos los productos en una página.
@@ -36,11 +35,12 @@ Hola, la idea es elaborar este pequeño ejercicio con las especificaciones lista
 - Puedes usar cualquier framework de ui para hacer la interfaz y con cualquier tema para facilitar la maquetación.
 - Solo debes usar componentes funcionales y hooks.
 - Debes usar react context.
+- Puedes adicionar cualquier otra feature que consideres que le sume valor a tu prueba, pero si es importante cumplir con los requerimientos. 
 
 ## ¿Que evaluaremos?
 - Claridad de código.
 - Organización de carpetas.
 - Buenas prácticas.
 - Herramientas usadas.
-- Funcionamiento y validaciones.
+- Funcionamiento.
 - Cumplimiento de los requerimientos.
