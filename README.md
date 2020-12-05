@@ -22,8 +22,14 @@ Hola, la idea es elaborar este pequeño ejercicio con las especificaciones lista
   - Más información sobre el api https://fakestoreapi.com/docs
 - Wireframes
   - Listado de productos.
+  ![](https://raw.githubusercontent.com/josueaqp92/react-frontend-challenge-1/main/assets/products.png)
+  
   - Vista de carrito de compra.
+  ![](https://raw.githubusercontent.com/josueaqp92/react-frontend-challenge-1/main/assets/cart.png)
+    
   - Detalle de producto.
+  ![](https://raw.githubusercontent.com/josueaqp92/react-frontend-challenge-1/main/assets/product-detail.png)
+    
 
 ## Reglas
 
