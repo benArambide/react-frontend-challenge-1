@@ -45,3 +45,4 @@ El objetivo del reto es construir un pequeño eshop de tan solo dos páginas el 
 - Herramientas usadas.
 - Funcionamiento.
 - Cumplimiento de los requerimientos.
+- La prueba unitaria.
