@@ -13,6 +13,7 @@ El objetivo del reto es construir un pequeño eshop de tan solo dos páginas el 
 - Al hacer clic en el producto me debe redireccionar a otra página donde se muestre el detalle del producto.
   - Se debe incluir el botón de agregar al carrito de compra.
 - Debe ser responsive.
+- Debes agregar una prueba unitaria a al menos un componente.
 
 ### Recursos
 - Servicios a usar.
